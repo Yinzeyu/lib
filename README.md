@@ -50,6 +50,7 @@
 **[fuel](https://github.com/kittinunf/fuel)**|kotlin版本网络请求
 **[RxNetty](https://github.com/ReactiveX/RxNetty)**|RxNetty
 **[RxWebSocket](https://github.com/dhhAndroid/RxWebSocket)**|基于okhttp和RxJava封装的WebSocket
+**[Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)**|Fast-Android-Networking
 
 # 权限库
 名称|描述
