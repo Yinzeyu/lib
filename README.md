@@ -1,9 +1,9 @@
-#依赖注入
+# 依赖注入
 名称|描述
 :-:|:-:
 **[Kodelin](https://github.com/Kodein-Framework/Kodein-DI)**|kotlin中的依赖注入替换dagger2
 **[dagger](https://github.com/google/dagger)**|dagger是Java常用的依赖注入框架
-#数据存储
+# 数据存储
 名称|描述
 :-:|:-:
 **[MMKV](https://github.com/Tencent/MMKV)**|高效且轻量的数据存储工具
@@ -13,7 +13,7 @@
 **[DBFlow](https://github.com/agrosner/DBFlow)**|DBFLOW是一个为Android设计的简单高效的数据库类库
 **[LitePal](https://github.com/LitePalFramework/LitePal)**|开源的Android数据库框架，采用了对象关系映射(ORM)的模式
 **[Realm](https://realm.io/docs/java/latest/#)**|可以替代SQLite以及ORM Libraries的轻量级数据库
-#播放器
+# 播放器
 名称|描述
 :-:|:-:
 **[ExoPlayer](https://github.com/google/ExoPlayer)**|谷歌ExoPlayer播放器
@@ -30,7 +30,7 @@
 **[SmarterStreaming](https://github.com/daniulive/SmarterStreaming)**|跨平台的视频采集、直播SDK SmarterStreaming
 **[anyRTC-RTMP-OpenSource](https://github.com/anyRTC/anyRTC-RTMP-OpenSource)**|RTMP协议的推流拉流客户端
 **[AndroidVideoCache](https://github.com/danikula/AndroidVideoCache)**|视频缓存方案
-#组件化建构
+# 组件化建构
 名称|描述
 :-:|:-:
 **[CC](https://github.com/luckybilly/CC)**|CC 框架是一个面向协议的组件化框架
@@ -38,7 +38,7 @@
 **[JIMU](https://github.com/mqzhangw/JIMU)**|一种简单有效的android组件化方案
 **[ArmsComponent](https://github.com/JessYanCoding/ArmsComponent)**|MVPArms 官方快速组件化方案
 **[ARouter](https://github.com/alibaba/ARouter)**|组件化路由框架
-#网络请求
+# 网络请求
 名称|描述
 :-:|:-:
 **[retrofit](https://github.com/square/retrofit)**|OkHttp的加强版
@@ -51,21 +51,21 @@
 **[RxNetty](https://github.com/ReactiveX/RxNetty)**|RxNetty
 **[RxWebSocket](https://github.com/dhhAndroid/RxWebSocket)**|基于okhttp和RxJava封装的WebSocket
 
-#权限库
+# 权限库
 名称|描述
 :-:|:-:
 **[RxPermissions](https://github.com/tbruyelle/RxPermissions)**|基于RxJava2的权限请求
 **[AndPermission](https://github.com/yanzhenjie/AndPermission)**|AndPermission采用链式调用方式
-#Shape替代方案
+# Shape替代方案
 名称|描述
 :-:|:-:
 **[BackgroundLibrary](https://github.com/JavaNoober/BackgroundLibrary)**|Shape替代方案
-#UI适配方案
+# UI适配方案
 名称|描述
 :-:|:-:
 **[AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)**|今日头像UI适配方案
 
-#安卓动画
+# 安卓动画
 名称|描述
 :-:|:-:
 **[lottie-android](https://github.com/airbnb/lottie-android)**|Lottie安卓动画
@@ -74,7 +74,7 @@
 **[Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)**|Android 动画交互
  **[Material-Animations](https://github.com/lgvalle/Material-Animations)**|Android 动画交互
 
-#ui
+# ui
 名称|描述
 :-:|:-:
 **[FloatingView](https://github.com/UFreedom/FloatingView)**|点赞效果参考
@@ -84,13 +84,13 @@
 **[QMUI_Android](https://github.com/Tencent/QMUI_Android)**|腾讯推出的安卓UI库
 **[RoundedImageView](https://github.com/vinc3m1/RoundedImageView)**|图片圆角控件
 
-#权限库
+# 权限库
 名称|描述
 :-:|:-:
 **[tinker](https://github.com/Tencent/tinker)**|微信的Tinker、QQ空间的超级补丁、手机QQ的QFix
 **[AndFix](https://github.com/alibaba/AndFix)**|AndFix、Dexposed、阿里百川、Sophix
 **[Robust](https://github.com/Meituan-Dianping/Robust)**|美团的Robust、饿了么的Amigo、美丽说蘑菇街的Aceso
-#布局
+# 布局
 名称|描述
 :-:|:-:
 **[XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)**|带下拉刷新和上拉加载的
@@ -109,7 +109,7 @@
 **[PageRecyclerView](https://github.com/ckrgithub/PageRecyclerView)**|RecyclerView实现无限轮播效果
 **[BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)**|无限轮播 
 **[banner](https://github.com/youth5201314/banner)**|图片轮播控件
-#Utils
+# Utils
 名称|描述
 :-:|:-:
 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)**|安卓工具库
@@ -123,14 +123,14 @@
 **[glide-transformations](https://github.com/wasabeef/glide-transformations)**|Glide加载图片效果转换
 **[BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)**|通用RecyclerView的Adapter
 **[AndResGuard](https://github.com/shwenzhang/AndResGuard)**|APK资源压缩
-#下载
+# 下载
 名称|描述
 :-:|:-:
 **[proxyee-down](https://github.com/proxyee-down-org/proxyee-down)**|http下载工具，支持多连接分块下载
 **[FileDownloader](https://github.com/lingochamp/FileDownloader)**|Android 文件下载引擎
 **[OkDownload](https://github.com/lingochamp/okdownload)**|FileDownloader升级版
 **[ProgressManager](https://github.com/JessYanCoding/ProgressManager)**|各种下载进度监听
-#图片加载
+# 图片加载
 名称|描述
 :-:|:-:
 **[glide](https://github.com/bumptech/glide)**|安卓图片加载框架
@@ -138,7 +138,7 @@
 **[GlideWebpDecoder](https://github.com/zjupure/GlideWebpDecoder)**|Glide加载Webp动图
 **[fresco](https://github.com/facebook/fresco)**|  fresco
 **[picasso](https://github.com/square/picasso)**|picasso
-#rx系列
+# rx系列
 名称|描述
 :-:|:-:
 **[RxJava](https://github.com/ReactiveX/RxJava)**|RxJava
@@ -149,13 +149,13 @@
 **[RxCache](https://github.com/VictorAlbertos/RxCache)**|rx版本的缓存
 **[RxBinding](https://github.com/JakeWharton/RxBinding)**|事件绑定
 **[MvRx](https://github.com/airbnb/MvRx)**|响应式编程
-#压缩
+# 压缩
 名称|描述
 :-:|:-:
 **[Compressor](https://github.com/zetbaitsu/Compressor)**|图片压缩框架
 **[Luban](https://github.com/Curzibn/Luban)**|图片压缩框架
 **[Tiny](https://github.com/Sunzxyong/Tiny)**|图片压缩框架
-#图片
+# 图片
 名称|描述
 :-:|:-:
 **[sketch](https://github.com/panpf/sketch)**|大图查看，图片列表查看
@@ -163,7 +163,7 @@
 **[ImageWatcher](https://github.com/iielse/ImageWatcher)**|仿微信大图查看
 **[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)**|长图预览
 **[https://github.com/Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer)**|大图预览
-#学习资料
+# 学习资料
 名称|描述
 :-:|:-:
 **[java-design-patterns](https://github.com/iluwatar/java-design-patterns)**|Java实现的设计模式
@@ -179,3 +179,30 @@
 **[Hyperion](https://github.com/willowtreeapps/Hyperion-Android)**|APP开发UI测试工具
 **[SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)**|UI测试工具
 **[DoraemonKit](https://github.com/didi/DoraemonKit)**|简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
