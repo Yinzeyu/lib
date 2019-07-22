@@ -78,7 +78,7 @@
 **[Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)**|Android 动画交互
 **[Material-Animations](https://github.com/lgvalle/Material-Animations)**|Android 动画交互
 **[Android-Animation-Set](https://github.com/OCNYang/Android-Animation-Set)**|Android 所有动画系列详尽教程。 Explain all animations in Android.[Android 一共有多少种动画？准确告诉你！](https://www.jianshu.com/p/0eb89d43eea4)
- 
+**[Android应用开发之所有动画使用详解](http://blog.csdn.net/yanbober/article/details/46481171)**|Android应用开发之所有动画使用详解。
 
 # ui
 名称|描述
@@ -116,11 +116,6 @@
 **[tinker](https://github.com/Tencent/tinker)**|微信的Tinker、QQ空间的超级补丁、手机QQ的QFix
 **[AndFix](https://github.com/alibaba/AndFix)**|AndFix、Dexposed、阿里百川、Sophix
 **[Robust](https://github.com/Meituan-Dianping/Robust)**|美团的Robust、饿了么的Amigo、美丽说蘑菇街的Aceso
-# 布局
-名称|描述
-:-:|:-:
-
-
 
 # Utils
 名称|描述
@@ -153,6 +148,7 @@
 **[picasso](https://github.com/square/picasso)**|picasso
 **[ImageLoader](https://github.com/novoda/image-loader)**|image-loader
 **[Volley](https://github.com/mcxiaoke/android-volley)**|volley
+**[Luban](https://github.com/Curzibn/Luban)**|Luban（鲁班 —— Android图片压缩工具，仿微信朋友圈压缩策略。
 # 图表控件
 名称|描述
 :-:|:-:
@@ -215,6 +211,7 @@
 **[Hyperion](https://github.com/willowtreeapps/Hyperion-Android)**|APP开发UI测试工具
 **[SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)**|UI测试工具
 **[DoraemonKit](https://github.com/didi/DoraemonKit)**|简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手
+**[UETool](https://github.com/eleme/UETool)**|UETool 是一个各方人员（设计师、程序员、测试）都可以使用的调试工具。它可以作用于任何显示在屏幕上的 view，比如 Activity/Fragment/Dialog/PopupWindow 等等。 
 
 
 
