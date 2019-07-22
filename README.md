@@ -139,6 +139,16 @@
 **[GlideWebpDecoder](https://github.com/zjupure/GlideWebpDecoder)**|Glide加载Webp动图
 **[fresco](https://github.com/facebook/fresco)**|  fresco
 **[picasso](https://github.com/square/picasso)**|picasso
+
+# 图标控件
+名称|描述
+:-:|:-:
+**[MPAndroidChart](https://github.com/ggchxx/MPAndroidChart)**|MPAndroidChart是一个功能强大的图表开源类库：曲线图、柱形图、环形图
+**[WilliamChart](https://github.com/diogobernardino/WilliamChart)**|绘制图表的库，支持LineChartView、BarChartView和StackBarChartView三中图表类型，并且支持 Android 2.2及以上的系统。
+**[GlideWebpDecoder](https://github.com/zjupure/GlideWebpDecoder)**|Glide加载Webp动图
+**[fresco](https://github.com/facebook/fresco)**|  fresco
+**[picasso](https://github.com/square/picasso)**|picasso
+
 # rx系列
 名称|描述
 :-:|:-:
