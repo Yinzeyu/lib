@@ -149,6 +149,8 @@
 :-:|:-:
 **[MPAndroidChart](https://github.com/ggchxx/MPAndroidChart)**|MPAndroidChart是一个功能强大的图表开源类库：曲线图、柱形图、环形图
 **[WilliamChart](https://github.com/diogobernardino/WilliamChart)**|绘制图表的库，支持LineChartView、BarChartView和StackBarChartView三中图表类型，并且支持 Android 2.2及以上的系统。
+**[EasyChart](https://github.com/apinIron/EasyChart)**|EasyChart图表
+
 
 # 消息推送与及时通讯
 名称|描述
