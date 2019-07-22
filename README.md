@@ -76,7 +76,9 @@
 **[AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)**|View动画库
 **[recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)**|recyclerview动画库
 **[Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)**|Android 动画交互
- **[Material-Animations](https://github.com/lgvalle/Material-Animations)**|Android 动画交互
+**[Material-Animations](https://github.com/lgvalle/Material-Animations)**|Android 动画交互
+**[Android-Animation-Set](https://github.com/OCNYang/Android-Animation-Set)**|Android 所有动画系列详尽教程。 Explain all animations in Android.[Android 一共有多少种动画？准确告诉你！](https://www.jianshu.com/p/0eb89d43eea4)
+ 
 
 # ui
 名称|描述
@@ -87,16 +89,8 @@
 **[Highlight](https://github.com/hongyangAndroid/Highlight)**|高亮新手引导用法参考
 **[QMUI_Android](https://github.com/Tencent/QMUI_Android)**|腾讯推出的安卓UI库
 **[RoundedImageView](https://github.com/vinc3m1/RoundedImageView)**|图片圆角控件
-
-# 热更新
-名称|描述
-:-:|:-:
-**[tinker](https://github.com/Tencent/tinker)**|微信的Tinker、QQ空间的超级补丁、手机QQ的QFix
-**[AndFix](https://github.com/alibaba/AndFix)**|AndFix、Dexposed、阿里百川、Sophix
-**[Robust](https://github.com/Meituan-Dianping/Robust)**|美团的Robust、饿了么的Amigo、美丽说蘑菇街的Aceso
-# 布局
-名称|描述
-:-:|:-:
+**[XUI](https://github.com/xuexiangjys/XUI)**|一个简洁而优雅的Android原生UI框架，解放你的双手！图片圆角控件
+**[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)**|ui库，非常多的ui及特效。
 **[XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)**|带下拉刷新和上拉加载的
 **[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)**|几十种炫酷的下拉刷新
 **[SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout)**|任意View侧滑
@@ -113,6 +107,21 @@
 **[PageRecyclerView](https://github.com/ckrgithub/PageRecyclerView)**|RecyclerView实现无限轮播效果
 **[BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)**|无限轮播 
 **[banner](https://github.com/youth5201314/banner)**|图片轮播控件
+**[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**|类似 Facebook 加载时，条目的闪烁效果，酷酷的。
+
+
+# 热更新
+名称|描述
+:-:|:-:
+**[tinker](https://github.com/Tencent/tinker)**|微信的Tinker、QQ空间的超级补丁、手机QQ的QFix
+**[AndFix](https://github.com/alibaba/AndFix)**|AndFix、Dexposed、阿里百川、Sophix
+**[Robust](https://github.com/Meituan-Dianping/Robust)**|美团的Robust、饿了么的Amigo、美丽说蘑菇街的Aceso
+# 布局
+名称|描述
+:-:|:-:
+
+
+
 # Utils
 名称|描述
 :-:|:-:
