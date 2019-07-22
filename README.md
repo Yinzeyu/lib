@@ -30,6 +30,8 @@
 **[SmarterStreaming](https://github.com/daniulive/SmarterStreaming)**|跨平台的视频采集、直播SDK SmarterStreaming
 **[anyRTC-RTMP-OpenSource](https://github.com/anyRTC/anyRTC-RTMP-OpenSource)**|RTMP协议的推流拉流客户端
 **[AndroidVideoCache](https://github.com/danikula/AndroidVideoCache)**|视频缓存方案
+**[DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)**|这里是Android上最好的开源弹幕引擎·烈焰弹幕使。
+
 # 组件化建构
 名称|描述
 :-:|:-:
@@ -57,6 +59,7 @@
 :-:|:-:
 **[RxPermissions](https://github.com/tbruyelle/RxPermissions)**|基于RxJava2的权限请求
 **[AndPermission](https://github.com/yanzhenjie/AndPermission)**|AndPermission采用链式调用方式
+**[HuGePermission](https://github.com/Hu12037102/HuGePermission)**|HuGePermission强大的运行时权限
 # Shape替代方案
 名称|描述
 :-:|:-:
@@ -85,7 +88,7 @@
 **[QMUI_Android](https://github.com/Tencent/QMUI_Android)**|腾讯推出的安卓UI库
 **[RoundedImageView](https://github.com/vinc3m1/RoundedImageView)**|图片圆角控件
 
-# 权限库
+# 热更新
 名称|描述
 :-:|:-:
 **[tinker](https://github.com/Tencent/tinker)**|微信的Tinker、QQ空间的超级补丁、手机QQ的QFix
@@ -139,16 +142,20 @@
 **[GlideWebpDecoder](https://github.com/zjupure/GlideWebpDecoder)**|Glide加载Webp动图
 **[fresco](https://github.com/facebook/fresco)**|  fresco
 **[picasso](https://github.com/square/picasso)**|picasso
-
-# 图标控件
+**[ImageLoader](https://github.com/novoda/image-loader)**|image-loader
+**[Volley](https://github.com/mcxiaoke/android-volley)**|volley
+**[Volley](https://github.com/mcxiaoke/android-volley)**|volley
+# 图表控件
 名称|描述
 :-:|:-:
 **[MPAndroidChart](https://github.com/ggchxx/MPAndroidChart)**|MPAndroidChart是一个功能强大的图表开源类库：曲线图、柱形图、环形图
 **[WilliamChart](https://github.com/diogobernardino/WilliamChart)**|绘制图表的库，支持LineChartView、BarChartView和StackBarChartView三中图表类型，并且支持 Android 2.2及以上的系统。
-**[GlideWebpDecoder](https://github.com/zjupure/GlideWebpDecoder)**|Glide加载Webp动图
-**[fresco](https://github.com/facebook/fresco)**|  fresco
-**[picasso](https://github.com/square/picasso)**|picasso
 
+# 消息推送与及时通讯
+名称|描述
+:-:|:-:
+**[NettyChat](https://github.com/FreddyChen/NettyChat)**|基于Netty+TCP+Protobuf实现的Android IM库，包含Protobuf序列化、TCP拆包与粘包、长连接握手认证、心跳机制、断线重连机制、消息重发机制、读写超时机制、离线消息、线程池等功能。
+**[即时通讯和sns开源项目汇总](http://www.jianshu.com/p/b2ca52337fe5)**|源码提供！Android即时通讯和sns开源项目汇总，[github地址](https://github.com/CameloeAnthony/Perfect_IM_SNS)。
 # rx系列
 名称|描述
 :-:|:-:
