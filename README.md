@@ -144,7 +144,6 @@
 **[picasso](https://github.com/square/picasso)**|picasso
 **[ImageLoader](https://github.com/novoda/image-loader)**|image-loader
 **[Volley](https://github.com/mcxiaoke/android-volley)**|volley
-**[Volley](https://github.com/mcxiaoke/android-volley)**|volley
 # 图表控件
 名称|描述
 :-:|:-:
