@@ -201,7 +201,7 @@
 # 图片
 名称|描述
 :-:|:-:
-**[sketch](https://github.com/panpf/sketch)**|大图查看，图片列表查看
+**[sketch](https://github.com/panpf/sketch)**|图片加载(兼容圆角、圆形、高斯模糊、图片按压效果，图片边框)
 **[Matisse](https://github.com/zhihu/Matisse)**|一个能带进度条的图片框架，同时有身份标识动能，简单易用
 **[Rajawali](https://github.com/Rajawali/Rajawali)**|Android OpenGL ES 2.0/3.0 Engine
 **[Diooto](https://github.com/moyokoo/Diooto)**|仿微信大图查看(拖拽)、视频全屏
