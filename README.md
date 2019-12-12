@@ -234,6 +234,9 @@
 名称|描述
 :-:|:-:
 **[iosched](https://github.com/google/iosched)**|Google I/O 大会 App 的最新源代码
+**[wanAndroid](https://github.com/Mstian/wanAndroid)**|玩安卓uniapp版
+**[ABase](https://github.com/caiyoufei/ABase)**|基于AndroidX的架构，包含 Fuel+Rxjava+RxCache+MvRx+Epoxy(Sticky)等，全新的玩法很适合学习
+**[Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice)**|是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
 **[LifeHelper](https://github.com/yangchong211/LifeHelper)**|综合案例训练，包含新闻，视频，图片，音乐，记事本等等模块。架构模式：采用MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯bugly
 
 #  调试
