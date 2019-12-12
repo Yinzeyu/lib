@@ -3,6 +3,7 @@
 :-:|:-:
 **[Kodelin](https://github.com/Kodein-Framework/Kodein-DI)**|kotlin中的依赖注入替换dagger2
 **[dagger](https://github.com/google/dagger)**|dagger是Java常用的依赖注入框架
+**[Koin](https://github.com/InsertKoinIO/koin)**|Koin是一款轻量级的依赖注入框架，根据官方的描述，它无代理，无代码生成，无反射。
 # 数据存储
 名称|描述
 :-:|:-:
