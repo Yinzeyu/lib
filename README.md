@@ -229,6 +229,7 @@
 **[简约教程及Demo](https://github.com/dvajs/dva-docs/tree/master/v1/zh-cn/tutorial)**|简约教程及Demo
 **[SpringBoot整套学习资料](https://gitee.com/yinzeyu/springboot_learn)**|SpringBoot整套学习资料
 **[docker整套学习资料](http://www.ityouknow.com/docker.html)**|Docker整套学习资料
+**[spring-boot整套学习Demo](https://github.com/xkcoding/spring-boot-demo)**|spring-boot整套学习Demo
 
 #  项目
 名称|描述
