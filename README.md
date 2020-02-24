@@ -71,7 +71,12 @@
 # UI适配方案
 名称|描述
 :-:|:-:
-**[AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)**|今日头像UI适配方案
+**[AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)**|开源免费在电脑显示手机画面并控制手机的工具 (投屏/录屏/免Root)
+
+# 投屏
+名称|描述
+:-:|:-:
+**[scrcpy](https://github.com/Genymobile/scrcpy)**|今日头像UI适配方案
 
 # 安卓动画
 名称|描述
