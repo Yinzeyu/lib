@@ -52,6 +52,7 @@
 **[Kalle](https://github.com/yanzhenjie/Kalle)**|Nohttp升级加强版
 **[Novate](https://github.com/Tamicer/Novate)**|链式调用网络请求
 **[fuel](https://github.com/kittinunf/fuel)**|kotlin版本网络请求
+**[okhttp-RxHttp](https://github.com/liujingxing/okhttp-RxHttp)**|RxJava2 + OkHttp 30秒上手，新一代OkHttp请求神器，史上最优雅的实现文件上传/下载/进度监听、动态/多域名、缓存；支持第三方数据解析工具、自定义请求、自动关闭请求等等
 **[RxNetty](https://github.com/ReactiveX/RxNetty)**|RxNetty
 **[RxWebSocket](https://github.com/dhhAndroid/RxWebSocket)**|基于okhttp和RxJava封装的WebSocket
 **[Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)**|Fast-Android-Networking
