@@ -237,6 +237,7 @@
 **[docker整套学习资料](http://www.ityouknow.com/docker.html)**|Docker整套学习资料
 **[spring-boot整套学习Demo](https://github.com/xkcoding/spring-boot-demo)**|spring-boot整套学习Demo
 **[spring-boot整套学习和Demo](http://www.macrozheng.com/)**|spring-boot整套学习和Demo
+**[spring-boot整套学习和Demo](https://github.com/newbee-ltd/newbee-mall)**|spring-boot整套学习和Demo
 **[spring-boot整套学习](http://blog.didispace.com/categories/Spring-Boot/)**|spring-boot整套学习
 **[算法学习之路](https://study.163.com/course/courseLearn.htm?courseId=1209488813#/learn/video?lessonId=1279640933&courseId=1209488813)**|你所需要的算法学习都在这里
 
