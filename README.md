@@ -243,14 +243,14 @@
     * [GlideWebpDecoderGlide加载Webp动图](https://github.com/zjupure/GlideWebpDecoder)
     * [Glide加载图片效果转换](https://github.com/wasabeef/glide-transformations)
     * [GlideWebpDecoderGlide加载Webp动图](https://github.com/zjupure/GlideWebpDecoder)
-     * [GlideImageView](https://github.com/sunfusheng/GlideImageView)**|基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度
+     * [GlideImageView](https://github.com/sunfusheng/GlideImageView)基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度
     * [fresco](https://github.com/facebook/fresco)
     * [picasso](https://github.com/square/picasso)
     * [图片加载框架的api封装,涵盖fresco,glide,picasso.最大程度优化内存,防止OOM](https://github.com/hss01248/ImageLoader)
-    * [Volley](https://github.com/mcxiaoke/android-volley)**|volley
-    * [ImageLoaderFramework](https://github.com/ladingwu/ImageLoaderFramework)**|打造统一的图片加载框架，融合Glide（4.x），Fresco,不侵入业务代码，一套API兼容两种加载库
+    * [Volley](https://github.com/mcxiaoke/android-volley)volley
+    * [ImageLoaderFramework](https://github.com/ladingwu/ImageLoaderFramework)打造统一的图片加载框架，融合Glide（4.x），Fresco,不侵入业务代码，一套API兼容两种加载库
     * [sketch图片加载(兼容圆角、圆形、高斯模糊、图片按压效果，图片边框)](https://github.com/panpf/sketch)
-    * [sand](https://github.com/Jomes/sand)**|使用JNI实现Sobel算子图像边缘检测
+    * [sand](https://github.com/Jomes/sand)使用JNI实现Sobel算子图像边缘检测
     * [Picasso，Glide，Fresco对比分析](http://blog.csdn.net/github_33304260/article/details/70213300)
     
 * SideBar
@@ -360,7 +360,7 @@
    * [AndroidUtilCode安卓工具库](https://github.com/Blankj/AndroidUtilCode)
    * [RxTool工具类集合](https://github.com/vondear/RxTool)
    * [logger漂亮的log打印工具](https://github.com/orhanobut/logger)
-   * [libphonenumber全球手机号验证工具](https://github.com/googlei18n/libphonenumber)**|
+   * [libphonenumber全球手机号验证工具](https://github.com/googlei18n/libphonenumber)
    * [packer-ng-plugin多渠道打包](https://github.com/mcxiaoke/packer-ng-plugin)
 * 依赖注入
    * [kotlin中的依赖注入替换dagger2](https://github.com/Kodein-Framework/Kodein-DI)
@@ -404,7 +404,7 @@
 * 组件化
     * [框架是一个面向协议的组件化框架](https://github.com/luckybilly/CC)
     * [一套完整有效的android组件化方案](https://github.com/luojilab/DDComponentForAndroid)
-    * [一种简单有效的android组件化方案](https://github.com/mqzhangw/JIMU)**|
+    * [一种简单有效的android组件化方案](https://github.com/mqzhangw/JIMU)
     * [MVPArms 官方快速组件化方案](https://github.com/JessYanCoding/ArmsComponent)
 * NetWork
     * [轻量级 Android Socket 通信框架](https://github.com/xuuhaoo/OkSocket)
@@ -415,7 +415,7 @@
     * [Kalle是Nohttp升级加强版](https://github.com/yanzhenjie/Kalle)
     * [Novate链式调用网络请求](https://github.com/Tamicer/Novate)
     * [基于okhttp和RxJava封装的WebSocket](https://github.com/dhhAndroid/RxWebSocket) 
-    * [RxJava2 + OkHttp 30秒上手，新一代OkHttp请求神器，史上最优雅的实现文件上传/下载/进度监听、动态/多域名、缓存；支持第三方数据解析工具、自定义请求、自动关闭请求等等](https://github.com/liujingxing/okhttp-RxHttp)**|
+    * [RxJava2 + OkHttp 30秒上手，新一代OkHttp请求神器，史上最优雅的实现文件上传/下载/进度监听、动态/多域名、缓存；支持第三方数据解析工具、自定义请求、自动关闭请求等等](https://github.com/liujingxing/okhttp-RxHttp)
     * [RxNetty](https://github.com/ReactiveX/RxNetty)
    
 * IM
