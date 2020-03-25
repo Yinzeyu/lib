@@ -245,7 +245,7 @@
     * [GlideWebpDecoderGlide加载Webp动图](https://github.com/zjupure/GlideWebpDecoder)
     * [Glide加载图片效果转换](https://github.com/wasabeef/glide-transformations)
     * [GlideWebpDecoderGlide加载Webp动图](https://github.com/zjupure/GlideWebpDecoder)
-     * [GlideImageView](https://github.com/sunfusheng/GlideImageView)基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度
+    * [GlideImageView](https://github.com/sunfusheng/GlideImageView)基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度
     * [fresco](https://github.com/facebook/fresco)
     * [picasso](https://github.com/square/picasso)
     * [图片加载框架的api封装,涵盖fresco,glide,picasso.最大程度优化内存,防止OOM](https://github.com/hss01248/ImageLoader)
@@ -254,7 +254,7 @@
     * [sketch图片加载(兼容圆角、圆形、高斯模糊、图片按压效果，图片边框)](https://github.com/panpf/sketch)
     * [sand](https://github.com/Jomes/sand)使用JNI实现Sobel算子图像边缘检测
     * [Picasso，Glide，Fresco对比分析](http://blog.csdn.net/github_33304260/article/details/70213300)
-    
+    * [Universal Image Loader 是一个强大的、可高度定制的图片缓存，简称：UIL，可以高度配置的网络图片缓存库，非常灵活，用户量最多 。](https://github.com/nostra13/Android-Universal-Image-Loader) 
 * SideBar
     * [仿美团等选择城市列表demo](https://github.com/zaaach/CityPicker)
     * [城市列表选择](https://github.com/gugalor/citylist)
@@ -419,7 +419,7 @@
     * [基于okhttp和RxJava封装的WebSocket](https://github.com/dhhAndroid/RxWebSocket) 
     * [RxJava2 + OkHttp 30秒上手，新一代OkHttp请求神器，史上最优雅的实现文件上传/下载/进度监听、动态/多域名、缓存；支持第三方数据解析工具、自定义请求、自动关闭请求等等](https://github.com/liujingxing/okhttp-RxHttp)
     * [RxNetty](https://github.com/ReactiveX/RxNetty)
-   
+    * [ion](https://github.com/koush/ion) - 一个异步网络请求和图片加载的库，一个库能搞定几乎所有的网络请求。
 * IM
     * [各种聊天气泡](https://github.com/MasayukiSuda/BubbleLayout)
     * [一起来撸个朋友圈吧](https://github.com/razerdp/FriendCircle)
@@ -465,7 +465,7 @@
     * [ImageWatcher仿微信大图查看](https://github.com/iielse/ImageWatcher)
     * [subsampling-scale-image-view长图预览](https://github.com/davemorrissey/subsampling-scale-image-view)
     * [大图预览](https://github.com/Piasy/BigImageViewer)
-    
+    * [Android自定义相机实现身份证拍照，并加入自动对焦与图片不规则裁剪。](https://github.com/wildma/IDCardCamera)  
 * Camera
     * [一个简单易于继承的相机Fragment](https://github.com/florent37/CameraFragment)
     * [一个高级且易于使用的相机库](https://github.com/flurgle/CameraKit-Android)
@@ -532,6 +532,8 @@
 * 插件化/Hybrid
     * [最接近原生APP体验的高性能框架](https://github.com/dcloudio/mui)
     * [Android插件框架，免安装运行插件APK ，支持独立插件和非独立插件](https://github.com/limpoxe/Android-Plugin-Framework)
+    * [它是一个腾讯自主研发的 Android 插件框架，经过线上亿级用户量检验。Shadow 不仅开源分享了插件技术的关键代码，还完整的分享了上线部署所需要的所有设计。](https://github.com/Tencent/Shadow) 
+    * [ - 通过Gradle Transform和aspectj来实现代码动态修改，业务逻辑数据埋点、性能数据统计等侵入性修改从此不再需要修改业务代码，完美解决Dexposed兼容性问题，实现代码自动插桩。](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)
 * ORM/SQLite/SharePreferences
     * [利用 KeyStore 存储密码，加密 SharedPreference 的数据，保证安全性](https://github.com/iamMehedi/Secured-Preference-Store)
     * [一个简单的 SQLite 和 Excel 互相转换的库子](https://github.com/li-yu/SQLiteToExcel)
