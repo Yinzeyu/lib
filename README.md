@@ -161,7 +161,7 @@
     * [RecyclerView 超强助手](https://github.com/nisrulz/recyclerviewhelper)
     * [多布局适配器](https://github.com/DevAhamed/MultiViewAdapter)
     * [kotlin根据返回的数据驱动视图](https://github.com/Werb/MoreType/blob/master/README_ZH.md)
-*StatusBar
+* StatusBar
     * [android 4.4以上沉浸式状态栏和沉浸式导航栏管理以及对bar的其他设置](https://github.com/gyf-dev/ImmersionBar)
     * [沉浸式状态栏工具类](https://github.com/laobie/StatusBarUtil)
 * CoordinatorLayout/AppBarLayout/CollapsingToolbarLayout
@@ -249,7 +249,7 @@
     * [fresco](https://github.com/facebook/fresco)
     * [picasso](https://github.com/square/picasso)
     * [图片加载框架的api封装,涵盖fresco,glide,picasso.最大程度优化内存,防止OOM](https://github.com/hss01248/ImageLoader)
-    * [Volley](https://github.com/mcxiaoke/android-volley)volley
+    * [Volley](https://github.com/mcxiaoke/android-volley)
     * [ImageLoaderFramework](https://github.com/ladingwu/ImageLoaderFramework)打造统一的图片加载框架，融合Glide（4.x），Fresco,不侵入业务代码，一套API兼容两种加载库
     * [sketch图片加载(兼容圆角、圆形、高斯模糊、图片按压效果，图片边框)](https://github.com/panpf/sketch)
     * [sand](https://github.com/Jomes/sand)使用JNI实现Sobel算子图像边缘检测
@@ -419,7 +419,7 @@
     * [基于okhttp和RxJava封装的WebSocket](https://github.com/dhhAndroid/RxWebSocket) 
     * [RxJava2 + OkHttp 30秒上手，新一代OkHttp请求神器，史上最优雅的实现文件上传/下载/进度监听、动态/多域名、缓存；支持第三方数据解析工具、自定义请求、自动关闭请求等等](https://github.com/liujingxing/okhttp-RxHttp)
     * [RxNetty](https://github.com/ReactiveX/RxNetty)
-    * [ion](https://github.com/koush/ion) - 一个异步网络请求和图片加载的库，一个库能搞定几乎所有的网络请求。
+    * [ion 一个异步网络请求和图片加载的库，一个库能搞定几乎所有的网络请求。](https://github.com/koush/ion) 
 * IM
     * [各种聊天气泡](https://github.com/MasayukiSuda/BubbleLayout)
     * [一起来撸个朋友圈吧](https://github.com/razerdp/FriendCircle)
