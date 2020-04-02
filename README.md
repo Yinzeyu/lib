@@ -646,6 +646,7 @@
   * [Java实现的设计模式](https://github.com/iluwatar/java-design-patterns)
   * [Flutter学习资料](https://github.com/AweiLoveAndroid/Flutter-learning)
   * [Flutter学习demo](https://github.com/roughike/inKino)
+  * [Flutter中文网学习资料](https://flutterchina.club/get-started/install/)
   * [Flutter库](https://github.com/flutter/flutter)
   * [安卓学习导航](https://github.com/Freelander/Android_Data)
   * [Kotlin学习资料](https://github.com/KotlinBy/awesome-kotlin)
