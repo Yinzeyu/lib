@@ -1,3 +1,5 @@
+
+[github地址](https://github.com/Yinzeyu/lib)
 ## **走一走,停一停,看一看你会发现不一样的世界**
 
 ## **系统控件**
@@ -404,9 +406,9 @@
     * [Floo 开源了，一个支持 AOP、栈控制、跨页面带信、和动态变更映射的 URL 路由 ](https://github.com/drakeet/Floo)
     * [ARouter组件化路由框架](https://github.com/alibaba/ARouter)
 * 组件化
-    * [框架是一个面向协议的组件化框架](https://github.com/luckybilly/CC)
-    * [一套完整有效的android组件化方案](https://github.com/luojilab/DDComponentForAndroid)
-    * [一种简单有效的android组件化方案](https://github.com/mqzhangw/JIMU)
+    * [CC是一套基于组件总线的、支持渐进式改造的、支持跨进程调用的、完整的Android组件化框架](https://github.com/luckybilly/CC)
+    * [一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能](https://github.com/luojilab/DDComponentForAndroid)
+    * [JIMU（积木）是一套Android组件化框架，支持组件的代码资源隔离、单独调试、集成调试、组件交互、UI跳转、生命周期等完整功能。](https://github.com/mqzhangw/JIMU)
     * [MVPArms 官方快速组件化方案](https://github.com/JessYanCoding/ArmsComponent)
 * NetWork
     * [轻量级 Android Socket 通信框架](https://github.com/xuuhaoo/OkSocket)
