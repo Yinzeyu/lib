@@ -684,7 +684,7 @@
   * [一套基于springcloud + mybatis + vue全家桶](https://github.com/OptionalDay/spring-cloud-vue)  
   * [cloudE 基于spring cloud的分布式系统架构](https://github.com/vangao1989/cloudE)  
   * [shop spring cloud最佳实践项目实例](https://github.com/lrwinx/shop) 
-  * [Cloud-Admin是国内首个基于Spring Cloud微服务化开发平台](https://gitee.com/minull/ace-security)  
+  * [Cloud-Admin是国内首个基于Spring Cloud微服务化开发平台](https://gitee.com/minull/)  
   * [spring-boot-cloud综合练手项目](https://github.com/zhangxd1989/spring-boot-cloud)  
   * [基于Spring Cloud的在线考试系统](https://gitee.com/wells2333/spring-cloud-online-exam)  
   * [基于SpringCloud的微服务架构实战案例项目，以一个简单的购物流程为示例](https://github.com/backkoms/simplemall)  
