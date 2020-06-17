@@ -11,15 +11,11 @@
     * [自适应大小和行的TextView](https://github.com/AndroidDeveloperLB/AutoFitTextView)
     * [Android修改6.0系统文本选择菜单](http://www.jianshu.com/p/89970f098012)
     * [歌词显示控件，支持多行显示、拖曳播放、自动识别歌词文件的编码](https://github.com/zhengken/LyricViewDemo)
-    * [非常实用的省略控件，无emoji截断之乱码， 无characterstyle截断之不雅](https://github.com/dinuscxj/EllipsizeTextView)
     * [歌词风格的 TextView，利用 Gradient 渐变实现](https://github.com/livesun/GradientTextView)
     * [通过RelativeLayout组装的各种效果的TextView](https://github.com/lygttpod/SuperTextView)
-  
-* TextView富文本
     * [Android平台下的富文本显示控件](https://github.com/zzhoujay/RichText)
-    * [显示富文本的TextView](https://github.com/limedroid/XRichText)
     * [花式封装与使用SpannableString](http://www.jianshu.com/p/509b0d2626f4)
-    * [简单易用的TextView装饰库](https://github.com/nntuyen/text-decorator)
+  
 * TextView特效
     * [带滚动数字的TextView](https://github.com/AndroidMsky/RandomTextView)
     * [垂直跑马灯/垂直翻页公告](https://github.com/sfsheng0322/MarqueeView)
