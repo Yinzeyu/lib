@@ -106,14 +106,9 @@
     * [一个带有展开和折叠动画的Spinner](https://github.com/arcadefire/nice-spinner)
 * Activity/Fragment
     * [以卡片视图的形式管理你的 Activity，让你的 app 可以自由的切换、跳转、关闭 Activity 以及结束 app 程序 ](https://github.com/Hitomis/ActivitySwitcher)
-    * [类Android 5.0任务管理的控件](https://github.com/Bossyao168/StackOverView)
-    * [Android 逆向实用小插件：展示页面 Top Activity 的名称和包名](https://github.com/109021017/android-TopActivity)
     * [Android Activity 下拉上拉滑动消失效果，类似 Chrome 的 Tab 效果](https://github.com/klinker24/Android-DragDismissActivity)
     * [Activity ＋ 多Fragment","多模块Activity多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG](https://github.com/YoKeyword/Fragmentation)
     * [轮盘样式的 Fragment 选择菜单，可转动轮盘切换 Fragment](https://github.com/Hitomis/SpinMenu)
-
-
-## **Material Design控件**
 * RecyclerView
     * [最强RecyclerView，Item侧滑菜单，长按拖拽Item，滑动删除Item。可以和任何下拉刷新框架结合使用](https://github.com/yanzhenjie/SwipeRecyclerView)
     * [Android RecyclerView 顶部悬浮实现](https://github.com/christmasjason/StickyHeaderView)
