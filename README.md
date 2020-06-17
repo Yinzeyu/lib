@@ -15,34 +15,30 @@
     * [通过RelativeLayout组装的各种效果的TextView](https://github.com/lygttpod/SuperTextView)
     * [Android平台下的富文本显示控件](https://github.com/zzhoujay/RichText)
     * [花式封装与使用SpannableString](http://www.jianshu.com/p/509b0d2626f4)
-  
-* TextView特效
     * [带滚动数字的TextView](https://github.com/AndroidMsky/RandomTextView)
     * [垂直跑马灯/垂直翻页公告](https://github.com/sfsheng0322/MarqueeView)
     * [一个滑动动画的textview（更好的显示温度，金额等）](https://github.com/robinhood/ticker)
     * [数字增加动画的 TextView](https://github.com/Bakumon/NumberAnimTextView)
     * [Android Textview Fading 动画效果](https://github.com/rosenpin/FadingTextView)
     * [一个用粒子动画显示文字的 Android 自定义 View](https://github.com/Yasic/ParticleTextView?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5740)
+
 * ImageView
     * [基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度 ](https://github.com/sfsheng0322/GlideImageView)
     * [Android 加载大图可以高清显示10000*10000像素的图片，轻松实现微博长图功能](https://github.com/LuckyJayce/LargeImage)
     * [大图查看加载库，支持拖动和缩放，利用 fresco 加载，超级方便，但是内存占用超级低，一点也不卡](https://github.com/Piasy/BigImageViewer)
-    * [一个扩展原生控件支持圆角矩形框背景的库,可以减少相关shape资源文件使用](https://github.com/H07000223/FlycoRoundView)
     * [又一个Android端动态验证码实现](https://github.com/Freshman111/VerificationCodeView)
     * [图片圆角控件RoundedImageView](https://github.com/vinc3m1/RoundedImageView)
-* ImageView特殊样式
     * [多种样式的图片,可以用于设置图片的形状，现有圆角、圆形、扇形、环形，四种可选方式](https://github.com/Idtk/FigureImageView)
     * [Android 色彩渐进 ImageView](https://github.com/skyfe79/AndroidGradientImageView)
     * [懂得智能配色的ImageView,还能给自己设置多彩的阴影哦](https://github.com/DingMouRen/PaletteImageView)
     * [用 ImageView 实现圆形头像](https://github.com/Carbs0126/AvatarImageView)
     * [根据图片阴影变颜色，细腻的视觉效果](https://github.com/yingLanNull/ShadowImageView/blob/master/READEME_CN.md)
     * [目前来看，Android 上最好看的控件阴影实现](https://github.com/harjot-oberai/MaterialShadows)
-* ImageView浏览
-    * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
     * [transferee 可以帮助你完成从缩略图到原图的无缝过渡转变，功能体系仿照并涵盖 ios 版本的 QQ、微信朋友圈、新浪微博的图片浏览功能](https://github.com/Hitomis/transferee)
     * [类似微博微信显示图片的九宫格控件](https://github.com/laobie/NineGridImageView)
     * [仿Nice首页图片列表9图样式，并实现拖拽效果 ](https://github.com/wobiancao/ImageNice9Layout)
     * [类似 Instagram Story 的插件，展示照片集合](https://github.com/shts/StoriesProgressView)
+
 * EditText
     * [在EditText中显示tag的view ](https://github.com/qiugang/EditTag)
     * [支持自动格式化的 EditText，比如货币、电话号码等等](https://github.com/PaXLiCh/FormattEditText)
